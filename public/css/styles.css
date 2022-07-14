@@ -1,0 +1,91 @@
+header.top-header {
+  background: url(../images/anhnen1.jpg);
+  background-size: cover;
+}
+.navbar-brand {
+  text-align: center;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.banner {
+  color: #fff;
+  padding: 200px 0;
+}
+.banner h1 {
+  font-size: 6em;
+  font-weight: normal;
+  text-align: center;
+}
+.banner p {
+  font-size: 2em;
+  text-align: center;
+}
+.btn-more {
+    border-radius: 10px;
+    display: inline-block;
+    border: 2px solid #fff;
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    margin: top 10px;   
+   
+}
+.btn-more:hover, .btn-bg {
+    background:#fff;
+    color:#000;
+}
+.nav-line{
+  border-bottom: 1px solid rgba(255, 255, 255, .25) ;
+}
+.item {
+  text-align: center;
+  color: #000;
+  margin: 50px 0;
+}
+.item-title{
+    background:#fff;
+    color:#000;
+}
+.thang .aaa{
+  font: 30px/23px 'Asap','sans-serif';
+  color: #b0d236;
+  font-weight: 500;
+  text-transform: lowercase;
+  text-align: center;
+}
+.lorem1 p:hover {
+  color: #fbbc3e;
+}
+.more p:hover{
+  color: #fbbc3e;
+}
+
+.b {
+  border-top: 1px #606060 dotted ;
+}
+.thanhdoc {
+  border-right: 1px solid #ececec;
+}
+.meo{
+  border-top: 3px solid #dadada;
+}
+.thanh{
+  margin-bottom: 50px;
+}
+.hinhthe span img{
+  vertical-align: middle;
+  width: 24%;
+  height: 152px;
+  padding: 0 10px;
+}
+.meo2 {
+  border-top: 3px solid #000;
+  margin: 50px;
+}
+
+
+  
